@@ -1,0 +1,27 @@
+CS 490 Project Fall 2020
+
+Social Networking Site
+
+Your three-tiered (client-server-backend) system must either be run on NJIT's AFS servers in your own accounts or on a public server accessible to the web (not on your laptops or personal computers).
+
+
+Milestones and Minimum Requirements:
+
+Alpha: (Thurs. October 15th 20%):
+
+Log in and Registration of new members.
+User can post text announcements.
+Search for other users.
+
+Beta (Thurs. November 19th 25%):
+
+User can post HTML announcements.
+User can comment on announcements of other users.
+User can send direct messages to other users.
+
+Release (Thurs. December 10th 25%):
+
+Users can instant message (chat) with each other.
+Users can upload photos/documents with announcements.
+At least one additional feature.
+ 
